@@ -1,7 +1,14 @@
-id: opecha:P010804
+id: P010804
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2DB25437
   title: ཁེད
-  volume: ''
   author: ''
+  volumes:
+    a9cfb14431864873805a11853f88d125:
+      image_group_id: I1PD36308
+      title: ''
+      volume_number: 1
+      total_pages: 169
+      base_file: v001.txt
+  
